@@ -34,6 +34,9 @@ This is a simple Calculator Web Application developed as part of my Web Developm
 - Learned DOM manipulation and event handling
 - Practiced CSS Grid for layout design
 
+## Live Demo
+https://dimpithakur.github.io/calculator-task-3/
+
 ##  Author
 **Dimpi Jagdish Thakur**  
 BSc Computer Science Student  
